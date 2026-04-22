@@ -1,3 +1,5 @@
+name: docker-workshop
+
 services:
   web:
     # TODO(step-5a): build the image from the local Dockerfile and expose port 3000.
